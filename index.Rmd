@@ -1,0 +1,8 @@
+---
+bibliography      : "references.bib"
+appendix          : "appendix.Rmd"
+csl               : "apa.csl"
+documentclass     : "apa7"
+classoption       : "man"
+output            : papaja::apa6_pdf
+---
